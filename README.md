@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leon Lee, a second-year student in electrical and computer engineering at the University of Toronto.
+- 👋 Hi, I’m Leon Lee, a second-year student in computer engineering at the University of Toronto.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: leonlee021@gmail.com
 
